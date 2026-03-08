@@ -1,0 +1,4 @@
+﻿Method,Test Accuracy(%)
+PCA,80.91000000000001
+MLP AE,11.62
+Conv AE,11.41
